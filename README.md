@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenjayakody&theme=dark&layout=compact&hide_border=false)](https://github.com/praveenjayakody)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenjayakody&theme=dark&layout=compact&hide_border=true)](https://github.com/praveenjayakody)
 
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenjayakody&show_icons=true&theme=dark&hide_border=false)
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenjayakody&show_icons=true&theme=dark&hide_border=true)
 
 <!--
 **praveenjayakody/praveenjayakody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
