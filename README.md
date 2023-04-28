@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenjayakody&theme=dark&layout=compact&hide_border=true&)](https://github.com/praveenjayakody)
-
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenjayakody&show_icons=true&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-
 <a href="https://github.com/praveenjayakody"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenjayakody&theme=dark&layout=compact&hide_border=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api?username=praveenjayakody&show_icons=true&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" /></a>
 
 <!--
