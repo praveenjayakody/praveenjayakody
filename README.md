@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/praveenjayakody"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=praveenjayakody&show_icons=true&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&show_icons=true" /><!-- wi*quL3fcV --><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenjayakody&theme=dark&layout=compact&hide_border=true&hide_title=true&show_icons=true" /><img height="150px" src="https://raw.githubusercontent.com/praveenjayakody/praveenjayakody/master/microsoft-certified-azure-fundamentals.png" /></a>
+<a href="https://github.com/praveenjayakody"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=praveenjayakody&show_icons=true&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&show_icons=true" /><!-- wi*quL3fcV --><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenjayakody&theme=dark&layout=compact&hide_border=true&hide_title=true&show_icons=true" /></a>
 
 
 ### Technologies
@@ -11,6 +11,9 @@
 ### Tools
 ![Figma](https://img.shields.io/badge/-Figma-brightgreen)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-011d34)
+
+### Badges
+<a href="https://www.credly.com/badges/2e876dc7-29b0-4c06-b368-e1df9cd955f3/public_url"><img height="150px" src="https://raw.githubusercontent.com/praveenjayakody/praveenjayakody/master/microsoft-certified-azure-fundamentals.png" /></a>
 
 <!--
 **praveenjayakody/praveenjayakody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
