@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-<a href="https://github.com/praveenjayakody"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=praveenjayakody&show_icons=true&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&show_icons=true" /><!-- wi*quL3fcV --><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenjayakody&theme=dark&layout=compact&hide_border=true&hide_title=true&show_icons=true" /></a>
+<a href="https://github.com/praveenjayakody"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=praveenjayakody&show_icons=true&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&show_icons=true" /><!-- wi*quL3fcV --><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenjayakody&theme=dark&layout=compact&hide_border=true&hide_title=true&show_icons=true" /><img height="150px" src="https://raw.githubusercontent.com/praveenjayakody/praveenjayakody/master/microsoft-certified-azure-fundamentals.png" /></a>
+
 
 ### Technologies
 | Frontend | Backend |
 | -------- | ------- |
-| ![ReactJS](https://img.shields.io/badge/-React-blue) ![Tailwind](https://img.shields.io/badge/-Tailwind-green) ![Typescript](https://img.shields.io/badge/-Typescript-blueviolet) ![Scss](https://img.shields.io/badge/-Scss-pink) | ![Laravel](https://img.shields.io/badge/-Laravel-red) ![Express](https://img.shields.io/badge/-Express-lightgrey) ![MySQL](https://img.shields.io/badge/-MySQL-blue) |
+| ![Typescript](https://img.shields.io/badge/-Typescript-3178c6) ![Tailwind](https://img.shields.io/badge/-Tailwind-blueviolet) ![ReactJS](https://img.shields.io/badge/-React-blue) ![Scss](https://img.shields.io/badge/-Scss-pink) ![Redux](https://img.shields.io/badge/-Redux-764abc) | ![Laravel](https://img.shields.io/badge/-Laravel-f9332b) ![NodeJS](https://img.shields.io/badge/-Node-brightgreen) ![MySQL](https://img.shields.io/badge/-MySQL-blue) |
 
+### Tools
+![Figma](https://img.shields.io/badge/-Figma-brightgreen)
+![Photoshop](https://img.shields.io/badge/-Photoshop-011d34)
 
 <!--
 **praveenjayakody/praveenjayakody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
