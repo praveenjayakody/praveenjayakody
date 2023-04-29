@@ -2,6 +2,19 @@
 
 <a href="https://github.com/praveenjayakody"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=praveenjayakody&show_icons=true&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&show_icons=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenjayakody&theme=dark&layout=compact&hide_border=true&hide_title=true&show_icons=true" /></a>
 
+### Frontend Technologies
+
+![ReactJS](https://img.shields.io/badge/-React-blue)
+![Tailwind](https://img.shields.io/badge/-Tailwind-green)
+![Typescript](https://img.shields.io/badge/-Typescript-blueviolet)
+![Scss](https://img.shields.io/badge/-Scss-pink)
+
+### Backend Technologies
+
+![Laravel](https://img.shields.io/badge/-Laravel-red)
+![Express](https://img.shields.io/badge/-Express-lightgrey)
+![MySQL](https://img.shields.io/badge/-MySQL-blue)
+
 <!--
 **praveenjayakody/praveenjayakody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
