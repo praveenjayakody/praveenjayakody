@@ -6,7 +6,7 @@
 ### Technologies
 | Frontend | Backend |
 | -------- | ------- |
-| ![Next.js](https://img.shields.io/badge/-Next.js-black) ![Typescript](https://img.shields.io/badge/-Typescript-3178c6) ![Tailwind](https://img.shields.io/badge/-Tailwind-blueviolet) ![ReactJS](https://img.shields.io/badge/-React-blue) ![Scss](https://img.shields.io/badge/-Scss-pink) ![Redux](https://img.shields.io/badge/-Redux-764abc) | ![Laravel](https://img.shields.io/badge/-Laravel-f9332b) ![NodeJS](https://img.shields.io/badge/-Node-brightgreen) ![MySQL](https://img.shields.io/badge/-MySQL-blue) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-white) ![Typescript](https://img.shields.io/badge/-Typescript-3178c6) ![Tailwind](https://img.shields.io/badge/-Tailwind-blueviolet) ![ReactJS](https://img.shields.io/badge/-React-blue) ![Scss](https://img.shields.io/badge/-Scss-pink) ![Redux](https://img.shields.io/badge/-Redux-764abc) | ![Laravel](https://img.shields.io/badge/-Laravel-f9332b) ![NodeJS](https://img.shields.io/badge/-Node-brightgreen) ![MySQL](https://img.shields.io/badge/-MySQL-blue) |
 
 ### Tools
 ![Figma](https://img.shields.io/badge/-Figma-brightgreen)
